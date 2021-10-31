@@ -40,3 +40,4 @@ nosetests.xml
 
 .DS_Store
 .idea
+out
